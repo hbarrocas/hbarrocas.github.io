@@ -38,8 +38,8 @@ p { font-weight: 300; text-align: justify; }
 }
 .menu { list-style-type: none; padding: 0; }
 .menu li {
-  border: 1px solid #ddd;
+  border: 1px solid #ccc;
   border-radius: 0.5em;
   margin: 0.5em 0;
-  padding: 0.5em;
+  padding: 0.8em;
 }
